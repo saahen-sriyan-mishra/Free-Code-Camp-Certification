@@ -1,3 +1,3 @@
 # Free Code Camp Certificates
 
-### Responsive Web Desigh (`https://freecodecamp.org/certification/saahen-sriyan-mishra/responsive-web-design`)
+### [Responsive Web Design](https://freecodecamp.org/certification/saahen-sriyan-mishra/responsive-web-design)
